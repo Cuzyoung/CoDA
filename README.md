@@ -1,4 +1,4 @@
 ## CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning 
-![](https://visitor-badge.glitch.me/badge?page_id=Cuzyoung.CoDA)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=Cuzyoung.CoDA)
 
 

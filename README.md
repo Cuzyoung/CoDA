@@ -1,1 +1,1 @@
-## CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=&left_color=gray&right_color=blue"> </a>
+## CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Cuzyoung/CoDA/edit/main/README.md&left_color=gray&right_color=blue"> </a>

@@ -1,5 +1,4 @@
 ## CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning 
-<font face="Calibri">
 
 🌟🌟🌟 Here is the official project of :violin:[CoDA](). 
 
@@ -37,4 +36,3 @@ Python ./tools/image_demo.py --img ./images/night_demo.png --config ./configs/co
 ```bash
 Python ./tools/image_demo.py --img_dir ./acdc_dir --config ./configs/coda/csHR2acdcHR_coda.py --checkpoint ./pretrained/CoDA_cs2acdc.pth --out_dir ./workdir/cs2acdc
 ```
-</font>

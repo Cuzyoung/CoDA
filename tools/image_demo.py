@@ -12,8 +12,7 @@ from tools.test import update_legacy_cfg
 from mmseg.apis import inference_segmentor, init_segmentor
 from mmseg.core.evaluation import get_classes, get_palette
 
-#/share/home/dq070/CoT/MIC-metawithdot/seg/meta_workdir/meta_2prompt_zeros_rfs2400_twiimd400_1200_night400_4000
-#/share/home/dq070/CoT/MIC-origin/seg/work_dirs/cs2acdc/origin_new_conda_seed_1_4000eval
+
 def main():
     parser = ArgumentParser()
     parser.add_argument('--img', help='Image file', default='')

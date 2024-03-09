@@ -1,9 +1,9 @@
 ## CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning 
 
 
-🌟 Here is the official project of :violin::musical_score:[CoDA](). 
+🌟🌟🌟 Here is the official project of &#x1F3BC;&#x1F3BC;[CoDA](). 
 
-🔥🔥🔥CoDA is a UDA methodology that boosts models to understand all adverse scenes by highlighting the discrepancies within these scenes.
+🔥🔥🔥CoDA is a UDA methodology that boosts models to understand all adverse scenes (☁️,☔,❄️,&#x1F319;) by highlighting the discrepancies within these scenes.
 CoDA achieves state-of-the-art performances on widely used benchmarks.
 
 ![SYSU](https://img.shields.io/badge/SYSU-095101)&nbsp;![NUS](https://img.shields.io/badge/NUS-003D7C)&nbsp;![EPFL](https://img.shields.io/badge/EPFL-F60000)&nbsp;<a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F"> </a> 

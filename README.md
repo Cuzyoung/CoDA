@@ -14,7 +14,7 @@ CoDA achieves state-of-the-art performances on widely used benchmarks.
 cd CoDA
 python ./tools/download_ck.py
 ```
-or you can manually down load from [Google Drive](https://drive.google.com/drive/folders/1NKfgJZtLGXpqs7zKvI8KpKpJmTYCRtyB?usp=drive_link).
+or you can manually download checkpoints from [Google Drive](https://drive.google.com/drive/folders/1NKfgJZtLGXpqs7zKvI8KpKpJmTYCRtyB?usp=drive_link).
 
 ## Traning Steps
 ```bash

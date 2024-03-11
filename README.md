@@ -24,10 +24,19 @@ python ./tools/download_ck.py
 ```
 or you can manually download checkpoints from [Google Drive](https://drive.google.com/drive/folders/1NKfgJZtLGXpqs7zKvI8KpKpJmTYCRtyB?usp=drive_link).
 
-## Traning Steps
+## Environment
+Before run demo, first configure the PYTHONPATH, or you will encounter error like 'can not found tools...'.
 ```bash
-Python ./tools/train.py --config ./configs/coda/csHR2acdcHR_coda.py --work-dir ./workdir/cs2acdc
+cd CoDA
+export PYTHONPATH=.:$PYTHONPATH
 ```
+or
+```bash
+vi ~/.bashrc
+export PYTHONPATH=your path/CoDA:$PYTHONPATH
+source ~/.bashrc
+```
+
 ## demo
 ```bash
 Python ./tools/image_demo.py --img ./images/night_demo.png --config ./configs/coda/csHR2acdcHR_coda.py --checkpoint ./pretrained/CoDA_cs2acdc.pth
@@ -35,4 +44,8 @@ Python ./tools/image_demo.py --img ./images/night_demo.png --config ./configs/co
 ## Inference Steps
 ```bash
 Python ./tools/image_demo.py --img_dir ./acdc_dir --config ./configs/coda/csHR2acdcHR_coda.py --checkpoint ./pretrained/CoDA_cs2acdc.pth --out_dir ./workdir/cs2acdc
+```
+## Traning Steps
+```bash
+Python ./tools/train.py --config ./configs/coda/csHR2acdcHR_coda.py --work-dir ./workdir/cs2acdc
 ```

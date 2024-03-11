@@ -30,7 +30,7 @@ Before run demo, first configure the PYTHONPATH, or you will encounter error lik
 cd CoDA
 export PYTHONPATH=.:$PYTHONPATH
 ```
-or
+or directly modify the .bashrc file
 ```bash
 vi ~/.bashrc
 export PYTHONPATH=your path/CoDA:$PYTHONPATH

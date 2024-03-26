@@ -1,11 +1,3 @@
-# Obtained from: https://github.com/lhoyer/HRDA
-# Modifications:
-# - Add return_logits flag
-# - Update debug_output
-# ---------------------------------------------------------------
-# Copyright (c) 2022 ETH Zurich, Lukas Hoyer. All rights reserved.
-# Licensed under the Apache License, Version 2.0
-# ---------------------------------------------------------------
 
 from copy import deepcopy
 

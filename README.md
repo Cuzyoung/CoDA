@@ -5,7 +5,7 @@
 🔥🔥🔥CoDA is a UDA methodology that boosts models to understand all adverse scenes (☁️,☔,❄️,&#x1F319;) by highlighting the discrepancies within these scenes.
 CoDA achieves state-of-the-art performances on widely used benchmarks.
 
-![night](images/demo.png)
+![night](images/demo1.png)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/coda-instructive-chain-of-domain-adaptation/domain-adaptation-on-cityscapes-to)](https://paperswithcode.com/sota/domain-adaptation-on-cityscapes-to?p=coda-instructive-chain-of-domain-adaptation)
 

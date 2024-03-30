@@ -44,12 +44,6 @@ test_pipeline = [
         ])
 ]
 
-"""
-step1: 1200 easy_rfs(ref 1200 imgs) + 4000 twilight (ref 400 imgs)
-step2: 1200 medium_hard(sd+adverse 2400 imgs) + 4000 night (400 imgs) + 1200 medium_hard + 400 night
-step3: 48000 all_target --→ medium_hard + twilight + night (1200 + 1200 + 800 imgs)
-"""
-
 
 data = dict(
     samples_per_gpu=2,

@@ -1,7 +1,7 @@
 
 # Baseline UDA
 uda = dict(
-    type='DACS',
+    type='gta2csDACS',
     source_only=False,
     alpha=0.99,
     pseudo_threshold=0.968,

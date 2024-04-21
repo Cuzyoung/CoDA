@@ -1,6 +1,6 @@
 ## CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning 
 
-🌟🌟🌟 Here is the official project of :violin:[CoDA](). We only release the checkpoint for inference now and will release the code of Chain-of-Domain and Severity-Aware Visual Prompt Tuning later.
+🌟🌟🌟 Here is the official project of :violin:[CoDA](). We only release the checkpoint for inference now and will release the code of Chain-of-Domain and Severity-Aware Visual Prompt Tuning.
 
 🔥🔥🔥CoDA is a UDA methodology that boosts models to understand all adverse scenes (☁️,☔,❄️,&#x1F319;) by highlighting the discrepancies within these scenes.
 CoDA achieves state-of-the-art performances on widely used benchmarks.
@@ -36,6 +36,12 @@ python ./tools/download_ck.py
 or you can manually download checkpoints from [Google Drive](https://drive.google.com/drive/folders/1NKfgJZtLGXpqs7zKvI8KpKpJmTYCRtyB?usp=drive_link).
 
 ## Environment
+```
+conda create -n coda python=3.8.5 pip=22.3.1
+conda activate coda
+pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
+pip install mmcv-full==1.3.7 -f https://download.openmmlab.com/mmcv/dist/cu110/torch1.7/index.html
+```
 Before run demo, first configure the PYTHONPATH, or you will encounter error like 'can not found tools...'.
 ```bash
 cd CoDA

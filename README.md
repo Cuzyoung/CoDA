@@ -18,8 +18,8 @@ CoDA achieves state-of-the-art performances on widely used benchmarks.
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/coda-instructive-chain-of-domain-adaptation/semantic-segmentation-on-dark-zurich)](https://paperswithcode.com/sota/semantic-segmentation-on-dark-zurich?p=coda-instructive-chain-of-domain-adaptation)
 
 <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F"> </a> 
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F)
+<!-- 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F) -->
 
 ![CoDA](images/Architec.png)
 
@@ -46,7 +46,7 @@ conda activate coda
 pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
 pip install mmcv-full==1.3.7 -f https://download.openmmlab.com/mmcv/dist/cu110/torch1.7/index.html
 ```
-Before run demo, first configure the PYTHONPATH, or you will encounter error like 'can not found tools...'.
+Before run demo, first configure the PYTHONPATH, or you may encounter error like 'can not found tools...'.
 ```bash
 cd CoDA
 export PYTHONPATH=.:$PYTHONPATH

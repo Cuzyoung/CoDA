@@ -22,7 +22,7 @@ CoDA achieves state-of-the-art performances on widely used benchmarks.
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/coda-instructive-chain-of-domain-adaptation/semantic-segmentation-on-nighttime-driving)](https://paperswithcode.com/sota/semantic-segmentation-on-nighttime-driving?p=coda-instructive-chain-of-domain-adaptation)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/coda-instructive-chain-of-domain-adaptation/semantic-segmentation-on-dark-zurich)](https://paperswithcode.com/sota/semantic-segmentation-on-dark-zurich?p=coda-instructive-chain-of-domain-adaptation)
-<!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
+<a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F"> </a> 
 <!-- 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Cuzyoung.CoDA&left_color=%23DFA3CB&right_color=%23CEE75F) -->
 

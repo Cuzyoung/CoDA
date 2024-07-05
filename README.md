@@ -1,18 +1,22 @@
 # [ECCV 2024] CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning 
 
-<div style="text-align: center;">
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="images/sysu_logo.png" alt="图片1" width="150px" height="150px">
-    <figcaption style="font-size: 20px;">Sun Yat-sen University</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="images/CPNT_logo.png" alt="图片2" width="150px" height="150px">
-    <figcaption style="font-size: 20px;">CPNT Lab</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="images/EPFL_logo.png" alt="图片3" width="150px" height="150px">
-    <figcaption style="font-size: 20px;">EPFL</figcaption>
-  </figure>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/sysu_logo.png" width="150px" height="150px"><br>
+        <span style="font-size: 18px;"><b>Sun Yat-sen University</b></span>
+      </td>
+      <td align="center">
+        <img src="images/CPNT_logo.png" width="150px" height="150px"><br>
+        <span style="font-size: 18px;"><b>CPNT Lab</b></span>
+      </td>
+      <td align="center">
+        <img src="images/EPFL_logo.png" width="150px" height="150px"><br>
+        <span style="font-size: 18px;"><b>EPFL</b></span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 

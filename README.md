@@ -1,5 +1,7 @@
 # [ECCV 2024] CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning 
 
+### by [Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao), [Fuhao Li](https://scholar.google.com/citations?user=UGfKnL8AAAAJ&hl=zh-CN&oi=ao), [Yupeng Deng](https://scholar.google.com/citations?user=H5X8NDQAAAAJ&hl=zh-CN&oi=ao), [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao), [Xianzheng Ma](https://scholar.google.com/citations?hl=zh-CN&user=NS8g2mMAAAAJ), [Xiangwei Zhu](), [Zhenming Ji](https://scholar.google.com/citations?hl=zh-CN&user=Hp80uDwAAAAJ)
+
 <div align="center">
   <table>
     <tr>
@@ -26,10 +28,15 @@ Here is the official project of 🎻[CoDA](). We are releasing the training code
 CoDA is a UDA methodology that boosts models to understand all adverse scenes (☁️,☔,❄️,&#x1F319;) by highlighting the discrepancies between and within these scenes.
 CoDA achieves state-of-the-art performances on widely used benchmarks.
 ## 🔥🔥🔥 News
+[2024-7-10]We have released our generated data samples. You can download from here. 
+
+[<ins>[Baidu Netdisk]</ins>](https://pan.baidu.com/s/1TLp6nvvzXKh-4E8c2Cd7dg?pwd=ekw9 )&nbsp;&nbsp;&nbsp;&nbsp;[<ins>[Google Drive]</ins>](https://drive.google.com/drive/folders/1UfCVIO0H4MGdEZTHCnwfSd3rkfBfJRu7?usp=sharing)
+
 [2024-7-2] We are delighted to inform that CoDA has been accepted by ECCV 2024 main conference 🎉🎉🎉!!!
 
 [2024-3-8] We create the official project of CoDA and release the inference code.
 
+## Overview
 
 ![night](images/demo1.png)
 
@@ -56,6 +63,17 @@ CoDA achieves state-of-the-art performances on widely used benchmarks.
 |**Cityscapes $\rightarrow$ Dark Zurich**|**61.2**|-|
 |**Cityscapes $\rightarrow$ Nighttime Driving**|**59.2**|-|
 |**Cityscapes $\rightarrow$ BDD100K-Night**|**41.6**|-|
+
+If you find this project useful in your research, please consider citing:
+```
+@article{gong2024coda,
+  title={CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning},
+  author={Gong, Ziyang and Li, Fuhao and Deng, Yupeng and Bhattacharjee, Deblina and Zhu, Xiangwei and Ji, Zhenming},
+  journal={arXiv preprint arXiv:2403.17369},
+  year={2024}
+}
+```
+
 
 ## Download Checkpoint
 ```bash
